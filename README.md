@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# authentication with google using firebase
+![authForm](./public/auth.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
